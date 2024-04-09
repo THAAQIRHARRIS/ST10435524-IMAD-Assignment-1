@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="hello">Hello!</string>
+    <string name="click_me_plz">Click me plz!</string>
+    <string name="type_here_plz">Type here plz</string>
+    <string name="barca">BARCA!!!</string>
+    <string name="number">Number?</string>
+    <string name="click">click</string>
+    <string name="clear">clear</string>
+    <string name="enter_here">Enter here:</string>
+</resources>
